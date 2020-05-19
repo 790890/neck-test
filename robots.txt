@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap: https://neck-test.netlify.app/sitemap.xml
