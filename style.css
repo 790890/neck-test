@@ -205,6 +205,12 @@ a.youtube-link {
     margin: auto;
 }
 
+.ad-banner {
+    width: 320px;
+    margin: 0 auto;
+}
+
+
 /* Absolute Center Spinner */
 .loading {
   position: fixed;
